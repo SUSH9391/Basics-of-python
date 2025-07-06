@@ -1,0 +1,15 @@
+name = " Sushmitha "
+
+print(len(name))
+print(name.endswith("itha"))
+print(name.startswith("Su"))
+print(name.capitalize())
+print(name.lower())
+print(name.upper())
+print(name.strip())
+print(name.replace("mitha", "Mithu"))
+print(name.split(","))
+print(name.join("1234"))
+print(name.isalpha())
+print(name.isdigit())
+print(name.count("i"))
